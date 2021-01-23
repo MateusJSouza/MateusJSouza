@@ -19,7 +19,7 @@
 
 👨🏽‍💻 Me chamo **Mateus Jesus**, tenho 20 anos e sou graduando em Sistemas de Informação. Gosto de tecnologia, IA, games e estou focado na área de **Front-end**.
 
-🚀 Atualmente estou estudando front-end na plataforma [Devmedia](https://devmedia.com.br) além de outros cursos que também utilizo para estudos, como a plataforma da Rocketseat e Udemy.
+🚀 Atualmente estou estudando front-end na plataforma [Devmedia](https://devmedia.com.br) além de outros cursos que também utilizo para estudos, como a plataforma da [Rocketseat](https://rocketseat.com.br) e [Udemy](https://udemy.com.br).
 
 <!-- Languages, libs and frameworks -->
 ![HTML5](https://img.shields.io/badge/-HTML-fff?style=flat&logo=HTML5)&nbsp;
@@ -40,7 +40,7 @@ Estão aqui algumas das minhas habilidades e conhecimentos como Desenvolvedor Fr
 - 🔠 **Linguagens**: HTML/CSS, JavaScript, ES6+.
 - 🆚 **Versionamento**: Git.
 - 🧪 **Testes e automatização**: NPM.
-- 🎲 **Banco de Dados**: Linguagem SQL, Modelagem de dados, MySQL.
+- 🎲 **Banco de Dados**: Linguagem SQL, Modelagem de dados, PostgreSQL.
 - 🏗️ **Infraestrutura**: HTTP, Windows 10.
 - 👷🏻 **Arquitetura**: Rest, Orientação a Objetos.
 - 📈 **Engenharia de Software**: Levantamento de requisitos, UML, Scrum e Kanbam.
