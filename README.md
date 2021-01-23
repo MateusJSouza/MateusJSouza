@@ -11,9 +11,9 @@
 [![GitHub Badge](https://img.shields.io/badge/-MateusJSouza-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/MateusJSouza)&nbsp;
 
 <!-- GitHub Stats -->
-![Mateus Jesus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusJSouza&theme=chartreuse-dark&show_icons=true)
+![Mateus  JesusGitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusJSouza&theme=chartreuse-dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusJSouza&layout=compact&theme=chartreuse-dark)](https://github.com/MateusJSouza/github-readme-stats)
+[![Top Langs](https://githubs-readme-stats.vercel.app/api/top-langs/?username=MateusJSouza&layout=compact&theme=chartreuse-dark)](https://github.com/MateusJSouza/github-readme-stats)
 
 ## E aí, beleza? 🤙🏽
 
