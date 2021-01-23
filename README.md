@@ -14,7 +14,7 @@
 ![Mateus Jesus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusJSouza&theme=chartreuse-dark&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusJSouza&layout=compact&theme=chartreuse-dark)(https://github.com/MateusJSouza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusJSouza&layout=compact&theme=chartreuse-dark)](https://github.com/MateusJSouza/github-readme-stats)
 
 ## E aí, beleza? 🤙🏽
 
