@@ -28,20 +28,21 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?fff=flat&logoColor=FEAE32&logo=javascript)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-4878a0?style=flat&logo=jquery)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61dafb)&nbsp;
 
 <!-- Tools Front-end -->
 ![Git](https://img.shields.io/badge/-Git-fff?fff=flat&logo=git)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-fff?fff=flat&logo=npm)&nbsp;
+![Yarn](https://img.shields.io/badge/-Yarn-fff?fff=flat&logo=yarn)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <!-- Skills -->
 Estão aqui algumas das minhas habilidades e conhecimentos como Desenvolvedor Front-end:
-- 💻 **Front-end**: HTML, CSS (Media Query, Animation, Flexbox, Grid), JavaScript (jQuery, ES6+), Bootstrap.
-- 🔠 **Linguagens**: HTML/CSS, JavaScript, ES6+.
+- 💻 **Front-end**: HTML, CSS (Media Query, Animation, Flexbox, Grid), JavaScript (jQuery, ES6+, Typescript), Bootstrap.
+- 🔠 **Linguagens**: HTML/CSS, JavaScript, ES6+, Typescript.
 - 🆚 **Versionamento**: Git.
-- 🧪 **Testes e automatização**: NPM.
-- 🎲 **Banco de Dados**: Linguagem SQL, Modelagem de dados, PostgreSQL.
+- 🧪 **Testes e automatização**: NPM e Yarn.
 - 🏗️ **Infraestrutura**: HTTP, Windows 10.
 - 👷🏻 **Arquitetura**: Rest, Orientação a Objetos.
-- 📈 **Engenharia de Software**: Levantamento de requisitos, UML, Scrum e Kanbam.
+- 📈 **Engenharia de Software**: Levantamento de requisitos, UML, Scrum e Kanban.
