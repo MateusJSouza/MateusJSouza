@@ -18,9 +18,9 @@
 
 ## E aí, beleza? 🤙🏽
 
-👨🏽‍💻 Me chamo **Mateus Jesus**, tenho 20 anos e sou graduando em Sistemas de Informação. Gosto de tecnologia, IA, games e estou focado na área de **Front-end**.
+👨🏽‍💻 Me chamo **Mateus Jesus**, tenho 21 anos e sou graduando em Sistemas de Informação. Gosto de tecnologia, IA, games e estou focado na área de **Front-end**.
 
-🚀 Atualmente estou estudando na plataforma da [Rocketseat](https://rocketseat.com.br/). Faço parte da 1ª turma do Ignite na trilha de ReactJS, um bootcamp que conta com 3 trilhas diferentes (ReactJS, NodeJS e Elixir).
+🚀 Atualmente estudo na plataforma da [Rocketseat](https://rocketseat.com.br/). Faço parte da 1ª turma do Ignite na trilha de ReactJS, um bootcamp que conta com 3 trilhas diferentes (ReactJS, NodeJS e Elixir).
 
 <!-- Languages, libs and frameworks -->
 ![HTML5](https://img.shields.io/badge/-HTML-fff?style=flat&logo=HTML5)&nbsp;
@@ -42,7 +42,7 @@ Estão aqui algumas das minhas habilidades e conhecimentos como Desenvolvedor Fr
 - 💻 **Front-end**: HTML, CSS (Media Query, Animation, Flexbox, Grid), JavaScript (jQuery, ES6+, Typescript), Bootstrap.
 - 🔠 **Linguagens**: HTML/CSS, JavaScript, ES6+, Typescript.
 - 🆚 **Versionamento**: Git.
-- 🧪 **Testes e automatização**: NPM e Yarn.
+- 🧪 **Testes e automatização**: JEST.
 - 🏗️ **Infraestrutura**: HTTP, Windows 10.
 - 👷🏻 **Arquitetura**: Rest, Orientação a Objetos.
 - 📈 **Engenharia de Software**: Levantamento de requisitos, UML, Scrum e Kanban.
