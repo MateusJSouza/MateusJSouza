@@ -14,7 +14,7 @@
 
 👨🏽‍💻 Me chamo **Mateus Jesus**, tenho 21 anos e sou graduando em Sistemas de Informação. Gosto de tecnologia, IA, games e estou focado na área de **Front-end**.
 
-🚀 Atualmente estudo na plataforma da [Rocketseat](https://rocketseat.com.br/). Faço parte da 1ª turma do Ignite na trilha de ReactJS, um bootcamp que conta com 3 trilhas diferentes (ReactJS, NodeJS e Elixir).
+🚀 Atualmente estudo na plataforma da [Rocketseat](https://rocketseat.com.br/). Faço parte da 1ª turma do Ignite na trilha de ReactJS.
 
 <!-- Languages, libs and frameworks -->
 ![HTML5](https://img.shields.io/badge/-HTML-fff?style=flat&logo=HTML5)&nbsp;
