@@ -12,7 +12,7 @@
 
 ## E aí, beleza? 🤙🏽
 
-👨🏽‍💻 Me chamo **Mateus Jesus**, tenho 21 anos e sou graduando em Sistemas de Informação. Gosto de tecnologia, IA, games e estou focado na área de **Front-end**.
+👨🏽‍💻 Me chamo **Mateus Jesus**, tenho 21 anos e sou graduando em Sistemas de Informação. Gosto de tecnologia, IA, games e estou focado na área de **Front-end**, atualmente sou Front-end Jr.
 
 🚀 Atualmente estudo na plataforma da [Rocketseat](https://rocketseat.com.br/). Faço parte da 1ª turma do Ignite na trilha de ReactJS.
 
