@@ -10,12 +10,6 @@
 [![Twitter Badge](https://img.shields.io/twitter/url?label=MtsJ3sus&style=social&url=https%3A%2F%2Ftwitter.com%2FMtsJ3sus)](https://twitter.com/MtsJ3sus)&nbsp;
 [![GitHub Badge](https://img.shields.io/badge/-MateusJSouza-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/MateusJSouza)&nbsp;
 
-<!-- GitHub Stats -->
-![Mateus Jesus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusJSouza&theme=chartreuse-dark&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusJSouza&layout=compact&theme=chartreuse-dark)](https://github.com/MateusJSouza/github-readme-stats)
-
 ## E aí, beleza? 🤙🏽
 
 👨🏽‍💻 Me chamo **Mateus Jesus**, tenho 21 anos e sou graduando em Sistemas de Informação. Gosto de tecnologia, IA, games e estou focado na área de **Front-end**.
