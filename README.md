@@ -4,7 +4,7 @@
 </p>
 
 <!-- Social Networks -->
- 📓 Contato: 
+ 📓 Contato: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Jesus-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-jesus/)](https://www.linkedin.com/in/mateus-jesus/)&nbsp;
 
 ## Olá, me chamo Mateus Jesus 🤙🏽
