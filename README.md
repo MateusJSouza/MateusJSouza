@@ -11,7 +11,7 @@
 
 👨🏽‍💻 Sou graduando em Sistemas de Informação e atualmente estou buscando a profissionalização na área de desenvolvimento front-end, utilizando a linguagem de programação Javascript, em específico o framework ReactJS.
 
-Gosto de ouvir podcasts do mundo dev em geral, jogar nas horas vagas. participar de comunidades e trocar experiências com outros desenvolvedores.
+Gosto de ouvir podcasts do mundo dev em geral, jogar nas horas vagas, participar de comunidades e trocar experiências com outros desenvolvedores.
 
 <!-- Languages, libs and frameworks -->
 ![HTML5](https://img.shields.io/badge/-HTML-fff?style=flat&logo=HTML5)&nbsp;
