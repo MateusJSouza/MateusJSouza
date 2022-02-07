@@ -7,11 +7,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Jesus-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-jesus/)](https://www.linkedin.com/in/mateus-jesus/)&nbsp;
 [![GitHub Badge](https://img.shields.io/badge/-MateusJSouza-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/MateusJSouza)&nbsp;
 
-## E aí, beleza? 🤙🏽
+## Olá, me chamo Mateus Jesus 🤙🏽
 
-👨🏽‍💻 Me chamo **Mateus Jesus**, tenho 21 anos e sou graduando em Sistemas de Informação. Gosto de tecnologia, IA, games e estou focado na área de **Front-end**, atualmente sou Front-end Jr.
+👨🏽‍💻 Sou graduando em Sistemas de Informação e atualmente estou buscando a profissionalização na área de desenvolvimento front-end, utilizando a linguagem de programação Javascript, em específico o framework ReactJS.
 
-🚀 Atualmente estudo na plataforma da [Rocketseat](https://rocketseat.com.br/). Faço parte da 1ª turma do Ignite na trilha de ReactJS.
+Gosto de ouvir podcasts do mundo dev em geral, jogar nas horas vagas. participar de comunidades e trocar experiências com outros desenvolvedores.
 
 <!-- Languages, libs and frameworks -->
 ![HTML5](https://img.shields.io/badge/-HTML-fff?style=flat&logo=HTML5)&nbsp;
