@@ -5,7 +5,6 @@
 
 <!-- Social Networks -->
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Jesus-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-jesus/)](https://www.linkedin.com/in/mateus-jesus/)&nbsp;
-[![GitHub Badge](https://img.shields.io/badge/-MateusJSouza-fff?fffstyle=flat&logo=github&logoColor=black)](https://github.com/MateusJSouza)&nbsp;
 
 ## Olá, me chamo Mateus Jesus 🤙🏽
 
