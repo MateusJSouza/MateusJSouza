@@ -31,4 +31,4 @@ Gosto de ouvir podcasts do mundo dev em geral, jogar nas horas vagas, participar
 <!-- My Portfolio -->
 🖥️ Clique abaixo para acessar meu portfólio 👇🏽
 
-![Vercel](https://vercelbadge.vercel.app/api/MateusJSouza/myPortfolio?bagde=style=for-the-badge)
+![Vercel](https://img.shields.io/badge/-Vercel-fff?fff=flat&logoColor=000&logo=vercel)
