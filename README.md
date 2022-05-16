@@ -36,6 +36,7 @@ src="https://img.shields.io/github/followers/MateusJSouza?logo=github&style=for-
 ### Socials
 
 <!-- Discord -->
+<p align="left"> <a href="https://discord.com/users/262995301189550080" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </a><!-- Github --><a href="https://www.github.com/MateusJSouza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a><!-- Linkedin --><a href="https://www.linkedin.com/in/mateus-jesus/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 ### Badges
