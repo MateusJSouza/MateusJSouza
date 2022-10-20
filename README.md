@@ -11,7 +11,7 @@ Front-end Software Developer
 
 I'm a 22 years old developer. I like to code and figure it out how to solve problems using tech on my favor. My main focus are front-end development, making applications that impact the life of thousands of users.
 
-I am also a student at [Unijuazeiro](https://unijuazeiro.edu.br/), a university in Juazeiro do Norte, Ceará.
+I am currently a graduate in Information Systems at [Unijuazeiro](https://unijuazeiro.edu.br/), a university in Juazeiro do Norte, Ceará.
 
 * 🌍  I'm based in Juazeiro do Norte, Brazil
 * ✉️  You can contact me at [mateusjdev@gmail.com](mailto:mateusjdev@gmail.com)
