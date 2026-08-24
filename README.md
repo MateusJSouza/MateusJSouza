@@ -15,7 +15,7 @@ I am currently a graduate in Information Systems at [Unijuazeiro](https://unijua
 
 * 🌍  I'm based in Juazeiro do Norte, Brazil
 * ✉️  You can contact me at [mateusjdev@gmail.com](mailto:mateusjdev@gmail.com)
-* 🚀  I currently work at Devsoft Enterprise
+* 🚀  I currently work at [AeC Centro de Contatos SA](https://www.aec.com.br/)
 * 🧠  I'm learning Javascript, Typescript and ReactJS.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Football
