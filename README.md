@@ -22,7 +22,7 @@
 ### About Me
 
 - 🌍 Based in Juazeiro do Norte, Brazil
-- 💼 Front-end Developer at [AeC Centro de Contatos SA](https://www.aec.com.br/)
+- 💼 Call Center Agent at [AeC Centro de Contatos SA](https://www.aec.com.br/)
 - 🎓 Graduating in Information Systems at [Unijuazeiro](https://unijuazeiro.edu.br/)
 - 🧠 Currently learning JavaScript, TypeScript and ReactJS
 - 🤝 Open to collaborating on projects that impact people's lives
