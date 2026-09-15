@@ -24,7 +24,7 @@
 - 🌍 Based in Juazeiro do Norte, Brazil
 - 💼 Call Center Agent at [AeC Centro de Contatos SA](https://www.aec.com.br/)
 - 🎓 Graduating in Information Systems at [Unijuazeiro](https://unijuazeiro.edu.br/)
-- 🧠 Currently learning JavaScript, TypeScript and ReactJS
+- 🧠 Currently learning JavaScript, Typescript, ReactJS and NextJS
 - 🤝 Open to collaborating on projects that impact people's lives
 - ⚡ I love sports — football is my favorite
 - ✉️ Contact me at mateusjdev@gmail.com
